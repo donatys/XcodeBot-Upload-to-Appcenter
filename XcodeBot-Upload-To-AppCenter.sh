@@ -1,7 +1,9 @@
 #!/bin/bash
-# Valid and working as of 04/21/2014
-# Xcode 5.0.1, XCode Server
+# Valid and working as of 5/1/2020
+# Xcode 11.4.1, Xcode Bot
 #
+# Created by Donatas Grikietis on 5/1/2020
+# Copyright (c) Donatas Grikietis 2020. All rights reserved.
 
 USERNAME="Your-Company-Name"
 APP_NAME="Your-Application-Name"
