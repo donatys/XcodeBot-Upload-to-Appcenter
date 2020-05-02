@@ -1,2 +1,2 @@
-# XcodeBot-Upload-to-Appcenter
-Xcode Bot Upload to MS App center Script
+# Xcode Bot Upload Build to MS App Center Script
+Simple script to upload Xcode Bot builds to MS App Center
